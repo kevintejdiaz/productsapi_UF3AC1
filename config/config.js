@@ -1,3 +1,3 @@
 module.exports = {
-  mongoURI: ""
+  mongoURI: "mongodb+srv://kiwin:1234@cluster0.fzkjeid.mongodb.net/"
 };

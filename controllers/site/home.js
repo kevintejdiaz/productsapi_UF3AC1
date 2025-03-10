@@ -1,5 +1,5 @@
 const renderHome = (req,res) => {
-    titulo = "Wellcome to Products API"
+    titulo = "Welcome to Products API"
     aviso = "Register to get API key!"
     howto = "(to provide it, place it on header 'api-key' or as URL param 'apikey')"
     rutas = [
